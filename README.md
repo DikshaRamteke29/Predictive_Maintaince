@@ -1,4 +1,4 @@
-Predictive Maintenance Project – Description
+Predictive Maintenance for industrial Equipment Project – Description
 
 This project focuses on Predictive Maintenance using Machine Learning, where the goal is to predict whether a machine will fail based on sensor data. Predictive maintenance helps industries detect potential failures early and reduce downtime, maintenance costs, and production losses.
 
